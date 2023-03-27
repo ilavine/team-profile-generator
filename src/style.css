@@ -1,0 +1,16 @@
+title {
+    text-align: center;
+}
+
+.card {
+    margin: auto;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.navbar {
+    background-color: teal;
+    color: salmon;
+}
